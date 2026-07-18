@@ -1,1 +1,6 @@
+簡報：
+
 https://github-actions-cicd-slide.seonkuraito.com/week-1/1
+
+模板：
+https://github.com/seon-kuraito/github-actions-cicd-course/tree/main
